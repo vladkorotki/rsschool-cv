@@ -36,4 +36,22 @@ June 2011 - September 2011
 Communications installer.
 Construction of linear cable structures, adjustment. Installation of fiber optic hoops, building of local networks
 
-   
+#### Education:
+* Belarusian State Academy of Communications, Minsk
+2012 – 2016. Faculty of correspondence education, technical maintenance of communication networks
+
+* Higher State College of Communications, Minsk
+2008 – 2012. Faculty of Telecommunications, Linear Cable Structures and Cable Data Networks
+
+#### Additional skils:
+Basic knowledge of the operation of the PPPoE, DHCP, OSPF, BGP, MPLS, L2VPN, L3VPN protocols, understanding the operation of Vlan-based networks, experience in working with optical DWDM networks.
+Knowledge of the construction and characteristics of the 4g LTE network.
+**Basic knowledge java script, HTML5 and CSS3**.  Knowledge of Windows 7, 8, 10.
+Programs: Photoshop, Joomla, Word, Excel 
+Languages: Russian, English — A2.
+
+About me:
+Friendly, responsible, sociable, hardworking, stress-resistant. I am able to work in a team, I learn quickly, I am able to work in non-standard situations. Well developed speech. I do not have bad habits, I go in for sports.
+
+
+_Thank you for the time spent watching._    
